@@ -249,6 +249,16 @@ section#hero-section {
 
 /*CARDS*/
 
+video,
+iframe {
+    margin-left: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  width: 80% !important;
+  height: 650px !important;
+}
+
 .container-card{
     width: 100%;
     display: flex;
